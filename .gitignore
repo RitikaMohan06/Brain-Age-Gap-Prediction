@@ -1,0 +1,23 @@
+# Ignore raw dataset and large binary artifacts
+/data/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Environment folders
+venv/
+.env/
+.venv/
+
+# OS files
+Thumbs.db
+.DS_Store
