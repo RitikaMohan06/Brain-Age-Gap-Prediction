@@ -237,9 +237,10 @@ https://doi.org/10.1016/j.neuroimage.2010.01.088
 
 ---
 
-# 👩‍💻 Author
+# Author
 
 Project Title:
 Brain Age Prediction from Structural MRI Using Deep Learning for Early Neurodegenerative Risk Assessment
 
 Developed using Deep Learning and MRI-based Neuroimaging Analysis.
+Ritika Mohan
